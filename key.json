@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vancovidlife",
+  "private_key_id": "2a658cac53208c570418797522262e12fe27d8f8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCL7mNoA0YcxSA9\njTDNLcgTd6F6ObLRP2HG3NisrwHKvLkCCehKXZLT4vE4lL9muzxFeeSfJvTSdUCS\nzh3/AXqUNLSw+0lfH6o4soDTbdsxBXAJ92+dEqkF0cNePSwg4oIcpbFOiocpM+VJ\nLdbX8I4LlwpOYix9shLD9gU5GFIdnvUG0BdADWxTOka+b6J7qcNzHFjt2RBxBMHr\nImUbdXOcKEsy5duJOX1Ve8KVxGNWsO2xmT22w81Rc+5q21N+8vwM+PECPCRa7lzC\nsYj8FTNX2H/vLyZdWM5sesnEaBhZJPyQLxgTF5hvDodP1GRp7hTI9YjMN5Tt0aLp\n5OgNEOEFAgMBAAECggEAGFtQ20iCmjxnzb73SSeYZWcT6PIFIa4OJ27GmlxGDBOI\ngoXV9KfQCGi+wzIFFO0vYwqCFH/T6pQ1Prh4+Su5OfXoo8vBrDiXSRItIWBEYIaJ\nR3rV5znZyOUHxC4SsdCrhDAFKl4rg60AUpoThPfeyb6rMRSemOx3nruCkjsdBAGm\nxlT8z46HGQVa9TKYVNn2y3HzLOWwYj6fEWcDTwk70k33AJB/h5GM1e1awwVDxvHx\nMBWnK3JYXhUBnh7Npo7t44mgRpkIYajd1FlBERFOWdbX6WHWT2gX+qaV3OqNbd2U\nCoaxS9DG+GW4s03EGAc5y08GrIvvMNm4WppB4M4J2wKBgQDEeC5vqz0kVADukXPr\npIy0McRz4NjlvAX8kxgE+Iq4ZCM4c9mWWpsqZmtZRIB5EZEwCTKQYOxKjgf8L46D\nQCOD8BdLog0sEJCPSh/vPqkL+oNDegI8Z92tptN3E71l5w7lalZDrmhFPZsig0Tj\nG2tffb75nf7IT3mQT00p7Pl0rwKBgQC2VKA3FOmgFAoYN3NzFGquWB2oGnrQWSo7\nmSQiLLYtQ9npXR0fIZnFQC93TRzwYW3J+j+UGQZ++O+a9EwcmBG3okXLeeT1bMZS\n1dJvgl7wCDg8fH85fFVW3I23k0U+OT37aG/AfNSD4DVrcO7k/BOD4IrFXRaX4tks\nXtzOczdaiwKBgDs7OFS2PXKsWLOT6mzKaRkSP/XnfbyVGQDyn7Uv8TJyDiRA2QJ5\nQnpf8lExU8IsR6dBvprEfbhkZYfkFoT/WzW1tnA45Nu6CrsIT+Ri8bgIyHYZXH81\nmSF3QB2QN/N224jSrDsvY4QsdI7NIIGPjKl3UZITzfI5855MKilPpk1FAoGAS1Bz\nia0iv9PnQ4+MKcoSMwgE4A5oEq3yKwIcEd3ENrhjR+kFgXmAqiDUOoRo4sZr8lVj\nc8pOi55KYwhsdBdAokjuaZllQRd4aHkYXqVMj/vlNt76MoWwPpwGEgFMReKhPrsq\nBinKIts3VbUliQKzEPNsfw/vqDe1G4Xn0YN4JvcCgYA2dMovUd+0GpycxO7BrOnS\nEJVRDVIRDG3RHEN7HX6pkgDCjt9/AfbQBWh9W8KbYpxG2zGqehZKPZvQzacOMHUp\nKJlCOzZYSz0vM7iDrsCA8Ibk80BxxxZFCj7Bw3SsDJmifsRlY4u20905AT1KqGm8\nS8wkNJ0l1gyaC9dGodtOaA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "vancovidlife@appspot.gserviceaccount.com",
+  "client_id": "117070944450293328046",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vancovidlife%40appspot.gserviceaccount.com"
+}

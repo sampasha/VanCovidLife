@@ -1,4 +1,10 @@
-runtime: python37
+runtime: python27
+api_version: 1
+threadsafe: true
+
+libraries:
+- name: ssl
+  version: latest
 
 handlers:
   # This configures Google App Engine to serve the files in the app's static
@@ -10,4 +16,4 @@ handlers:
   # required when static routes are defined, but can be omitted (along with
   # the entire handlers section) when there are no static files defined.
 - url: /.*
-  script: auto
+  script: main.app

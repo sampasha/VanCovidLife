@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demo App</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <script src="/static/js/main.js"></script>
+</head>
+
+<body>
+    <div id="info-panel" style="display: none;">
+        <div class="card">
+            <h2 id="card-title-left" class="card-title">No Selection</h2>
+            <div id="card-content-left" class="card-content"></div>
+        </div>
+    </div>
+    <div id="map"></div>
+    <script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBm2PfGE31ksM8cD22cWGngb3d9ClMOojs&callback=initMap&libraries=places,visualization">
+    </script>
+</body>
+
+</html>
